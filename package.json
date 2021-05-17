@@ -1,0 +1,19 @@
+{
+  "name": "imggallery",
+  "version": "1.0.0",
+  "description": "Creating a responsive FlexBox image gallery",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyMike/FlexBox-Img-Gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyMike/FlexBox-Img-Gallery/issues"
+  },
+  "homepage": "https://github.com/TonyMike/FlexBox-Img-Gallery#readme"
+}
