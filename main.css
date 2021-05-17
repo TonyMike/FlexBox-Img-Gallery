@@ -1,0 +1,38 @@
+@import url(https://fonts.googleapis.com/css2?family=Stylish&display=swap);
+
+*{
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+h1{
+  font-family: 'Stylish', sans-serif;
+  border-bottom:2px solid pink ;
+  padding-bottom: 10px;
+  text-align: center;
+  width: 50%;
+  margin: 10px auto;
+}
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+img{
+  height: 300px;
+  width: 400px;
+  margin: 10px;
+  transition: all 0.3s ease-out;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+}
+img:hover{
+  transform: scale(1.05);
+  transition: all 2s ea;
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -ms-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s east-out;
+}
